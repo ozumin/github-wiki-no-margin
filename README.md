@@ -14,7 +14,7 @@ After:
 1. Clone this repository: `git clone https://github.com/ozumin/github-wiki-no-margin.git`
 1. Access `chrome://extensions/` in Chrome.
 
-2. Click "Load unpacked"
+2. Turn on "Developer mode" and click "Load unpacked"
 
 ![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension1.png)
 4. Select this repository's src directory
