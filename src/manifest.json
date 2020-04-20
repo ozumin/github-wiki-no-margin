@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "Chrome Extension For Github",
-  "content_scripts": [{
-    "matches": ["https://github.com/*/*/wiki/*", "https://github.com/*/*/wiki"],
-    "js": [
-      "content.js"
-    ]
-  }]
+  "browser_action": {
+    "name": "Click to get URL"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["https://github.com/*/*/wiki/*", "https://github.com/*/*/wiki"]
 }
