@@ -1,5 +1,5 @@
 # github-wiki-no-margin
-This is an Chrome extension to remove margin from github wiki.
+This is a Chrome extension to remove margin from github wiki.
 
 ## How it works
 Before:
