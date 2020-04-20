@@ -17,10 +17,9 @@ After:
 2. Turn on "Developer mode" and click "Load unpacked"
 
 ![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension1.png)
+
 4. Select this repository's src directory
 
 ![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension2.png)
 
-5. If you want to turn on extension only when clicked, select "When you click the extension" in "This can read and change the site data"
-
-![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension3.png)
+5. Click icon to on/off extension
