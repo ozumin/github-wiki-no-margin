@@ -23,4 +23,4 @@ After:
 
 5. If you want to turn on extension only when clicked, select "When you click the extension" in "This can read and change the site data"
 
-![](![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension3.png))
+![](https://github.com/ozumin/github-wiki-no-margin/blob/master/.images/extension3.png)
