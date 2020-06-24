@@ -1,3 +1,5 @@
+# THIS EXTENTION DOES NOT WORK ANYMORE
+
 # github-wiki-no-margin
 This is a Chrome extension to remove margin from github wiki.
 I made this extension to see large tables in github wiki.
